@@ -1,6 +1,6 @@
 # Frontend AI Capstone
 
-A short one-line description of your project, e.g. "A task manager web app built with React and AI-assisted development."
+Capstone project for the FlyRank AI Internship Frontend AI Engineering track, built with React, TypeScript, Vite, and AI-assisted development.
 
 ## Features
 - Feature one (e.g. add and delete tasks)
